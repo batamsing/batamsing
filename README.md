@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @batamsing
 - 👀 I’m interested in android development and web application.
-- 🌱 I’m currently learning php, .net, mysql, javascript.
+- 🌱 I’m currently learning javascript, react, and front end development.
 - 💞️ I’m looking to collaborate on working process.
 - 📫 Contact me batampuyam09@gmail.com
 
