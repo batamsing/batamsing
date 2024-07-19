@@ -15,8 +15,8 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=batamsing&show_icons=true&hide_border=true)
 
 ## 🌟 Top Repositories:
-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=batamsing&repo=repo1)](https://github.com/batamsing/everywhere-notes))
-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=batamsing&repo=repo2)](https://github.com/yourusername/repo2)
+- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=batamsing&repo=everywhere-notes)](https://github.com/batamsing/everywhere-notes))
+- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=batamsing&repo=batamsingh-recipe)](https://github.com/batamsing/batamsingh-recipe)
 
 ## 🔗 Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/batamsingh/)](https://www.linkedin.com/in/batamsingh/)
