@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on **Full stack application**
 - 🌱 I’m currently learning **ReactJS, Springboot**
-- 👯 I’m looking to collaborate on **Front End Development**
-- 🤔 I’m looking for help with **BackEnd Development**
+- 👯 I’m looking to collaborate on **Full Stack Development**
+- 🤔 I’m looking for help with **Cloud**
 - 💬 Ask me about **ReactJS and Java**
 - 📫 How to reach me **batampuyam09@gmail.com**
 
