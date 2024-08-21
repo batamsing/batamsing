@@ -3,8 +3,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=batamsing&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on **Subscription Based WebApp**
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🔭 I’m currently working on **Full stack application**
+- 🌱 I’m currently learning **ReactJS, Springboot**
 - 👯 I’m looking to collaborate on **Front End Development**
 - 🤔 I’m looking for help with **BackEnd Development**
 - 💬 Ask me about **ReactJS and Java**
